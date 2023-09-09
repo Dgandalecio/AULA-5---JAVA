@@ -30,7 +30,7 @@ public class Algoritmo494 {
                       
                       pr.troca(pr.nome[L],pr.nome[c]);
                       pr.troca(pr.ender[L],pr.ender[c]);
-                      pr.troca(pr.prof[L], pr.ender[c]);
+                      pr.troca(pr.prof[L], pr.prof[c]);
                       
                   }
               }
